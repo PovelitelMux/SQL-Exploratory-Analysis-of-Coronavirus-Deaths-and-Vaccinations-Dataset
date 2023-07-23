@@ -20,7 +20,7 @@ Datasets in the CSV files include the period from Jan 8, 2020 till Jul 19, 2023.
 8. Total population and vaccinations per population over time (see the following PNG file: '08-graph...').
 9. CTE used to perform calculations on the percentage of vaccinated people in Ukraine over time (see the following PNG file: '09-graph...').
 10. New vaccinations in Ukraine over time (see the following PNG file: '10-graph...').
-11. Temporary table used to perform calculations.
+11. Temporary table used to perform calculations (see the following PNG file: '11-graph...').
 12. View created to store data for later visualizations.
 
 ## Summary of the observations:
@@ -28,4 +28,6 @@ Datasets in the CSV files include the period from Jan 8, 2020 till Jul 19, 2023.
 - Among the continents, Asia has the biggest number of cases (over 300M) keeping one of the smallest deaths-to-cases ratio (around 5.8 deaths per 1000 cases) and deaths-to-population ratio (around 0.3 deaths per 1 million population).
 -  5 Europe countries have a death-to-cases ratio greater than 2 deaths per 1000 cases. These countries are Bosnia and Herzegovina, Bulgaria, North Macedonia, Hungary, and Romania.
 -  9 Europe countries have a death-to-population ratio greater than 3 deaths per 1 million people. These countries are Bulgaria, Bosnia and Herzegovina, Hungary, North Macedonia, Croatia, Slovenia, Montenegro, Czechia, and Latvia.
--  Peru has the greatest death-to-population ratio around 5 deaths per 1 million population. 
+-  Peru has the greatest death-to-population ratio around 5 deaths per 1 million population.
+-  Vaccination in Ukraine was affected by the war with russia that starts on Fabruary 24, 2022.
+-  There are two biggest waves of vaccination in Europe related and a few smaller peaks probably related to the booster doses of vaccination.
