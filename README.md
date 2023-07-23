@@ -5,3 +5,5 @@ The dataset is available at https://ourworldindata.org/covid-deaths.
 Then dataset is separated into two CSV files: 
 - 'Deaths.csv' - data related to COVID-19 deaths
 - 'Vaccinations.csv' - data related to COVID-19 vaccinations
+
+Datasets in the CSV files include period from Jan 8, 2020 till Jul 19, 2023.
